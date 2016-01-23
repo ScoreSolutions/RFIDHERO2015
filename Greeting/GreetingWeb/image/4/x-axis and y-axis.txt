@@ -1,0 +1,27 @@
+header x: 964.874 px y: 87.506 px 
+
+1 frame    x: 234.976 px y: 362.473 px      3 frame    x: 1154.976 px y: 362.473 px      
+  pic      x: 228.833 px y: 373.5   px        pic      x: 1148.833 px y: 373.5   px        
+  info bg  x: 652.962 px y: 375.146 px        info bg  x: 1572.962 px y: 375.146 px        
+  name     x: 656.172 px y: 341.287 px        name     x: 1576.172 px y: 341.287 px        
+  company  x: 657.481 px y: 397.287 px        company  x: 1577.481 px y: 397.287 px        
+  if                                          if                                          
+  frame+info bg x:500.776 px y:365.638 px     frame+info bg x:1421.276 px y:365.638 px     
+
+
+2 frame    x: 234.976 px y: 813.473 px      4 frame    x: 1154.976 px y: 813.473 px      
+  pic      x: 228.833 px y: 824.5   px        pic      x: 1148.833 px y: 824.5   px     
+  info bg  x: 652.962 px y: 826.146 px        info bg  x: 1572.962 px y: 826.146 px       
+  name     x: 656.172 px y: 792.286 px        name     x: 1576.172 px y: 792.286 px      
+  company  x: 657.481 px y: 848.287 px        company  x: 1577.481 px y: 848.287 px       
+  if                                          if                                       
+  frame+info bg x:500.776 px y:816.638 px     frame+info bg x:1421.276 px y:816.638 px    
+
+
+header   1733 x 120 px
+
+pic      237  x 327 px
+frame    380  x 435 px
+info bg  610  x 325 px   
+if 
+frame+info 915x440 px

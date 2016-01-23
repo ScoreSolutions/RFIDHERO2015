@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PreRegister
+</name>
+</assembly>
+<members>
+<member name="M:PreRegister.GreetingImgWebService.WebService.#ctor">
+	<remarks/>
+</member><member name="E:PreRegister.GreetingImgWebService.WebService.SendImageCompleted">
+	<remarks/>
+</member><member name="M:PreRegister.GreetingImgWebService.WebService.SendImage(System.String,System.Byte[],System.String)">
+	<remarks/>
+</member><member name="M:PreRegister.GreetingImgWebService.WebService.SendImageAsync(System.String,System.Byte[],System.String)">
+	<remarks/>
+</member><member name="M:PreRegister.GreetingImgWebService.WebService.SendImageAsync(System.String,System.Byte[],System.String,System.Object)">
+	<remarks/>
+</member><member name="M:PreRegister.GreetingImgWebService.WebService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:PreRegister.GreetingImgWebService.WebService">
+	<remarks/>
+</member><member name="T:PreRegister.GreetingImgWebService.SendImageCompletedEventHandler">
+	<remarks/>
+</member><member name="P:PreRegister.GreetingImgWebService.SendImageCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:PreRegister.GreetingImgWebService.SendImageCompletedEventArgs">
+	<remarks/>
+</member><member name="P:PreRegister.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PreRegister.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PreRegister.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:PreRegister.FacebookWebService.WebService.#ctor">
+	<remarks/>
+</member><member name="E:PreRegister.FacebookWebService.WebService.SendImageCompleted">
+	<remarks/>
+</member><member name="M:PreRegister.FacebookWebService.WebService.SendImage(System.String,System.Byte[],System.String)">
+	<remarks/>
+</member><member name="M:PreRegister.FacebookWebService.WebService.SendImageAsync(System.String,System.Byte[],System.String)">
+	<remarks/>
+</member><member name="M:PreRegister.FacebookWebService.WebService.SendImageAsync(System.String,System.Byte[],System.String,System.Object)">
+	<remarks/>
+</member><member name="M:PreRegister.FacebookWebService.WebService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:PreRegister.FacebookWebService.WebService">
+	<remarks/>
+</member><member name="T:PreRegister.FacebookWebService.SendImageCompletedEventHandler">
+	<remarks/>
+</member><member name="P:PreRegister.FacebookWebService.SendImageCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:PreRegister.FacebookWebService.SendImageCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

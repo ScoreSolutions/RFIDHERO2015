@@ -1,0 +1,10 @@
+D:\MyProject\TRIUM-VRM\VRMDesktop\trunk\WebCamCapture\bin\Debug\WebCam_Capture.dll
+D:\MyProject\TRIUM-VRM\VRMDesktop\trunk\WebCamCapture\bin\Debug\WebCam_Capture.pdb
+D:\MyProject\TRIUM-VRM\VRMDesktop\trunk\WebCamCapture\obj\Debug\WebCamCapture.csprojResolveAssemblyReference.cache
+D:\MyProject\TRIUM-VRM\VRMDesktop\trunk\WebCamCapture\obj\Debug\WebCam_Capture.dll
+D:\MyProject\TRIUM-VRM\VRMDesktop\trunk\WebCamCapture\obj\Debug\WebCam_Capture.pdb
+D:\MyProject\RFIDHERO2015\trunk\PreRegister\WebCamCapture\bin\Debug\WebCam_Capture.dll
+D:\MyProject\RFIDHERO2015\trunk\PreRegister\WebCamCapture\bin\Debug\WebCam_Capture.pdb
+D:\MyProject\RFIDHERO2015\trunk\PreRegister\WebCamCapture\obj\Debug\WebCamCapture.csprojResolveAssemblyReference.cache
+D:\MyProject\RFIDHERO2015\trunk\PreRegister\WebCamCapture\obj\Debug\WebCam_Capture.dll
+D:\MyProject\RFIDHERO2015\trunk\PreRegister\WebCamCapture\obj\Debug\WebCam_Capture.pdb

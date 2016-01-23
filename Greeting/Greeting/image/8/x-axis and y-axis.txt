@@ -1,0 +1,27 @@
+header x: 964.874 px y: 87.506 px 
+
+1 frame    x: 275.981 px y: 311.482 px      3 frame    x: 742.982 px y: 311.481 px      5 frame    x: 1204.982 px y: 311.481 px      7 frame    x: 1668.982 px y: 311.481 px
+  pic      x: 263.001 px y: 318.5   px        pic      x: 730     px y: 318.5   px        pic      x: 1192     px y: 318.5   px        pic      x: 1656     px y: 318.5   px
+  info bg  x: 269.974 px y: 477.987 px        info bg  x: 736.974 px y: 477.987 px        info bg  x: 1198.974 px y: 477.987 px        info bg  x: 1662.974 px y: 477.987 px
+  name     x: 264.929 px y: 475.291 px        name     x: 731.929 px y: 475.291 px        name     x: 1193.929 px y: 475.291 px        name     x: 1657.929 px y: 475.291 px
+  company  x: 265.615 px y: 528.293 px        company  x: 732.614 px y: 528.292 px        company  x: 1194.614 px y: 528.292 px        company  x: 1658.614 px y: 528.292 px
+  if                                          if                                          if                                           if
+  frame+info bg x:268.974 px y:362.473 px     frame+info bg x:736.974 px y:362.473 px     frame+info bg x:1198.641 px px y:362.473 px  frame+info bg x:1662.641 px y:362.473 px
+
+
+2 frame    x: 275.981 px y: 769.481 px      4 frame    x: 742.982 px y: 769.481 px      6 frame    x: 1204.982 px y: 769.481 px      8 frame    x: 1668.982 px y: 769.481 px
+  pic      x: 263.001 px y: 776.5   px        pic      x: 730     px y: 776.5   px        pic      x: 1192     px y: 776.5   px        pic      x: 1656     px y: 776.5   px
+  info bg  x: 269.974 px y: 935.987 px        info bg  x: 736.974 px y: 935.987 px        info bg  x: 1198.974 px y: 935.987 px        info bg  x: 1662.974 px y: 935.987 px
+  name     x: 264.929 px y: 933.291 px        name     x: 731.929 px y: 933.291 px        name     x: 1193.929 px y: 933.291 px        name     x: 1657.929 px y: 933.291 px
+  company  x: 265.614 px y: 986.292 px        company  x: 732.614 px y: 986.292 px        company  x: 1194.614 px y: 986.292 px        company  x: 1658.614 px y: 986.292 px
+  if                                          if                                          if                                           if
+  frame+info bg x:268.974 px y:820.473 px     frame+info bg x:736.974 px y:820.473 px    frame+info bg x:1198.641 px y:820.473 px     frame+info bg x:1662.641 px y:820.473 px
+
+
+header   1733 x 120 px
+
+pic      168  x 233 px
+frame    280  x 305 px
+info bg  418  x 204 px   
+if 
+frame+info 418x435 px
